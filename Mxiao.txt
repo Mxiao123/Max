@@ -7,3 +7,9 @@ Max is a handsome man
 Max is a very vrey good man
 Max love python
 Django
+================
+mysql
+redis
+HTML
+css
+javascripts
